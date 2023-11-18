@@ -2,9 +2,9 @@
 an interprated programming langauge written in java 
 ![image](https://github.com/ExpiredSoup/Syphilis/assets/151405907/e2f3d805-36e9-4e9e-b65b-00b85586550a)
 ---
-Syphilis is a language heavily inspired by Brainfuck
-its less painful to slowly succumb to the effects of Syphilis then write in this sin of a langauge 
----
+
+inspierd by brainfuck this langauge hurts your brain 
+100% turing complete btw
 
 "i" move pointer in main tape left
 
