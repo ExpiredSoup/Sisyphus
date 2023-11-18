@@ -1,10 +1,15 @@
-# Syphilis
-an interprated programming langauge written in java 
+# Sisyphus
+an interprated programming langauge written in java desgined to hurt ur brain
 ![image](https://github.com/ExpiredSoup/Syphilis/assets/151405907/e2f3d805-36e9-4e9e-b65b-00b85586550a)
 ---
 
 inspierd by brainfuck this langauge hurts your brain 
-100% turing complete btw
+
+Sisyphus is 100% turing complete btw
+
+ive included a hello world program with it
+
+HOW TO USE Sisyphus
 
 "i" move pointer in main tape left
 
