@@ -31,7 +31,7 @@ public class Syphilis{
 public static void main(String[] args) {
 
 
-String code = ".................................|";// WRITE YOUR CODE HERE
+String code = "";// WRITE YOUR CODE HERE
 
 
 
