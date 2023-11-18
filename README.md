@@ -8,6 +8,7 @@ inspierd by brainfuck this langauge hurts your brain
 Sisyphus is 100% turing complete btw
 
 ive included a hello world program with it
+---
 
 HOW TO USE Sisyphus
 
