@@ -9,9 +9,10 @@ Sisyphus is 100% turing complete btw
 
 ive included a hello world program with it
 
----
+
 
 HOW TO USE Sisyphus
+---
 
 "i" move pointer in main tape left
 
