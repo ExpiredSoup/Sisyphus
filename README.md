@@ -9,7 +9,7 @@ Sisyphus is 100% turing complete btw
 
 ive included a hello world program with it
 
-
+forgot to mention you write code right to left insted of the normal left to right so its compltely backwards
 
 HOW TO USE Sisyphus
 ---
